@@ -1,0 +1,14 @@
+S A P T
+a b + - * ( ) ^
+S
+S aE
+S bE
+S aPS
+S bPS
+S (SF
+F )
+P +
+P -
+P *
+E ^S
+E
